@@ -1,16 +1,16 @@
 ---
 title: "Text generation for financial reports"
 layout: post
-date: 2020-08-21 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
-tag:
-- markdown
-- components
-- extra
+date: 2020-08-20 22:48
+tag: jekyll
+image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Text generation with RNN's (LSTM, GRU cells)"
 category: project
-author: henrykborzymowski
-description: Text generation with RNN's (LSTM, GRU cells)
+author: henryk
+externalLink: false
 ---
 
 ## Summary:
