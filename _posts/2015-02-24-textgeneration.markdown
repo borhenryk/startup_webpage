@@ -1,5 +1,5 @@
 ---
-title: "Text generation for financial reports"
+title: ":black_nib: Text generation for financial reports"
 layout: post
 date: 2020-08-20 22:48
 tag: jekyll
