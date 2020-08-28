@@ -23,7 +23,7 @@ Text generation with RNN's (LSTM, GRU cells).
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="https://sergiokopplin.github.io/indigo/assets/images/LSTM_Ar.png" alt="Alt Text">
+        <img class="image" src="https://borhenryk.github.io/henryk_githubpage/assets/images/LSTM_Ar.png" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
