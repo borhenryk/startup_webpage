@@ -1,16 +1,21 @@
 ---
-title: "Markdown Extra Components"
+title: "Mardown example"
 layout: post
-date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+date: 2020-08-20 22:48
 tag:
-- markdown
-- components
-- extra
+- parkinson-monitoring
+- sensor
+- time-series-classification
+- multi-input-models
+- hyperparameter-tuning
+image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Parkinson Monitoring from sensor Data"
 category: project
-author: jamesfoster
-description: Markdown summary with different options
+author: henryk
+externalLink: false
 ---
 
 ## Summary:
