@@ -7,7 +7,7 @@ tag:
 - transformers
 - language-models
 - nlp
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://borhenryk.github.io/henryk_githubpage/assets/images/transformers.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -19,7 +19,7 @@ externalLink: false
 
 ## Summary:
 
-Text generation with RNN's (LSTM, GRU cells).
+Custom language question&answering model
 
 <div class="side-by-side">
     <div class="toleft">
@@ -33,4 +33,7 @@ Text generation with RNN's (LSTM, GRU cells).
 </div>
 
 
-[1]: https://daringfireball.net/projects/markdown/
+Helpful links:
+* (The page to Huggingface)[https://huggingface.co/]
+* (GitHub Repo for SQuAD translation)[https://github.com/borhenryk/train_custom_qa_model]
+* (Deepset Q&A annotation tool)[https://annotate.deepset.ai/]
