@@ -19,5 +19,16 @@ externalLink: false
 
 ## Summary:
 
-<p>This master thesis gives an insight into the theory and application of different methods of text generation. Since many areas of the economy are related to text-based problems, this thesis, in order to learn the financial language, used a data source of the financial statements of more than 5000 companies. With the help of different algorithms based on neural networks, an attempt was made to automatically generate text based on a given topic. This automation of recurring and repeatable tasks could save time and avoid human error in many situations. The master thesis is mainly addressed to people with a strong background in statistical and mathematical methods. The theory and practical application of Deep Learning is not a prerequisite, as the basic concepts are described extensively in the thesis.</p>
 
+<p>The (master thesis)[https://epub.ub.uni-muenchen.de/60631/] gives an insight into the theory and application of different methods of text generation. Since many areas of the economy are related to text-based problems, this thesis, in order to learn the financial language, used a data source of the financial statements of more than 5000 companies. With the help of different algorithms based on neural networks, an attempt was made to automatically generate text based on a given topic. This automation of recurring and repeatable tasks could save time and avoid human error in many situations. The master thesis is mainly addressed to people with a strong background in statistical and mathematical methods. The theory and practical application of Deep Learning is not a prerequisite, as the basic concepts are described extensively in the thesis.</p>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://borhenryk.github.io/henryk_githubpage/assets/images/LSTM_Ar.png" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+</div>
