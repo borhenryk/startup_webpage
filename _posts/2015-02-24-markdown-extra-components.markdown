@@ -58,7 +58,7 @@ Like the [Medium](https://medium.com/) component.
 {% highlight html %}
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
+        <img class="image" src=https://github.com/borhenryk/henryk_githubpage/blob/master/assets/images/LSTM_Ar.pdf alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
