@@ -34,6 +34,6 @@ Custom language question&answering model
 
 
 Helpful links:
-* (The page to Huggingface)[https://huggingface.co/]
-* (GitHub Repo for SQuAD translation)[https://github.com/borhenryk/train_custom_qa_model]
-* (Deepset Q&A annotation tool)[https://annotate.deepset.ai/]
+* [The page to Huggingface](https://huggingface.co/)
+* [GitHub Repo for SQuAD translation](https://github.com/borhenryk/train_custom_qa_model)
+* [Deepset Q&A annotation tool](https://annotate.deepset.ai/)
