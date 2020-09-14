@@ -20,5 +20,6 @@ externalLink: false
 
 ## Summary:
 
-Text generation with RNN's (LSTM, GRU cells).
+<p>Machine learning algorithms that use data streams captured by soft portable sensors can automatically detect PD symptoms and inform physicians about disease progression. However, these algorithms must be trained with annotated data from clinical experts who can recognize symptoms, and collecting such data is costly. Our approach is to take patient annotated data in order to translate raw sensor data in severity of Parkinson. This data can than be used to observe the disease over days or years to understand better the features which lead to the severity of the illness.</p>
+
 
