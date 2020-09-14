@@ -25,10 +25,10 @@ The [master thesis](https://epub.ub.uni-muenchen.de/60631/) gives an insight int
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://borhenryk.github.io/henryk_githubpage/assets/images/LSTM_Ar.png" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <figcaption class="caption">LSTM Network Architecture</figcaption>
     </div>
 
     <div class="text-align:center">
-        <p>Since I had some problems to combine the information from the different sources I created the graphic to the left which shows a combination of the <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">blog post</a> and the <a href="https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/">post here</a> where I think the graphics are very helpful but an error in explaining the number_units is present. Check the <a href="https://stackoverflow.com/questions/37901047/what-is-num-units-in-tensorflow-basiclstmcell/53760729#53760729">StackOverflow Answer</a> for detailed information and the full size graphic.</p>
+        <p>Since I had some problems to combine the information from the different sources I created the graphic to the left which shows a combination of the <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">blog post</a> and the <a href="https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/">post here</a> where I think the graphics are very helpful but an error in explaining the number_units is present. Check the <a href="https://stackoverflow.com/questions/37901047/what-is-num-units-in-tensorflow-basiclstmcell/53760729#53760729">Stack Overflow Answer</a> for detailed information and the full size graphic.</p>
     </div>
 </div>
