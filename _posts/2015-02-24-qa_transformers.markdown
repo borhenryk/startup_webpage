@@ -26,7 +26,7 @@ externalLink: false
         <figcaption class="caption">Downloads of the Dutch QA model (14.09.2020)</figcaption>
     </div>
 
-    <div class="center">
+    <div class="toright">
         <p>Huggingface allows you to train your own language models and adapt them to specific downstream tasks such as Q&A, classification, text summary, etc. and then share them with the community. I have provided 4 models for Polish and Dutch Q&A tasks (for SQuAD v1.0 and v2.0). You can also find benchmarks in the respective model cards on the huggingface page.</p>
     </div>
 </div>
