@@ -17,7 +17,6 @@ author: henryk
 externalLink: false
 ---
 
-## Summary:
 
 <p>Recent advances in large language models such as BERT, RoBERTa, ALBERT etc. changed the field of information extraction from unstructured data (using QA). Nevertheless, due to the huge amount of annotated data (Stanford Question answering dataset for Question Answering tasks), most progress has been made in English. A translation of the SQuAD dataset would make it possible to achieve better results for this type of task in other languages where this type of data is limited or not available at all.</p>
 
@@ -27,8 +26,8 @@ externalLink: false
         <figcaption class="caption">Downloads of the Dutch QA model (14.09.2020)</figcaption>
     </div>
 
-    <div class="toright">
-        <p>Huggingface allows you to train your own language models and adapt them to specific downstream tasks such as Q&A, classification, text summary, etc. and then share them with the community. I have provided 4 models for Polish and Dutch Q&A tasks (for SQuAD v1 and v2). You can also find benchmarks in the respective model cards on the hugging page.</p>
+    <div class="center">
+        <p>Huggingface allows you to train your own language models and adapt them to specific downstream tasks such as Q&A, classification, text summary, etc. and then share them with the community. I have provided 4 models for Polish and Dutch Q&A tasks (for SQuAD v1.0 and v2.0). You can also find benchmarks in the respective model cards on the huggingface page.</p>
     </div>
 </div>
 
