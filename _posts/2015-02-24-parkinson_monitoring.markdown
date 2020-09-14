@@ -8,7 +8,7 @@ tag:
 - time-series-classification
 - multi-input-models
 - hyperparameter-tuning
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://borhenryk.github.io/henryk_githubpage/assets/images/ts_class.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
