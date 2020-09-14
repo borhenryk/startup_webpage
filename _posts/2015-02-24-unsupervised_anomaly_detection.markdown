@@ -8,7 +8,7 @@ tag:
 - iforest
 - lof
 - excess-mass-curves
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://borhenryk.github.io/henryk_githubpage/assets/images/iForest_Color_Scala-1.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -29,7 +29,15 @@ Base of unlabeled data. For this purpose we use an approach that has been develo
 and on the basis of Excess-Mass and Mass-Volume curves statements about the quality of
 scoring functions meets.</p>
 
-<p>The project showed that the methods iForest and Local Outlier Factor are suitable for
-to detect anomalies or to investigate observations. A
-A suitable criterion for the evaluation of the methods and for the determination of the parameter values was the Excess-Mass-Volume criterion. These allow a
-Comparison between methods and can also handle unlabeled data.</p>
+<p>The project showed that the methods iForest and Local Outlier Factor are suitable for to detect anomalies or to investigate observations. A suitable criterion for the evaluation of the methods and for the determination of the parameter values was the Excess-Mass-Volume criterion. These allow a Comparison between methods and can also handle unlabeled data.</p>
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://borhenryk.github.io/henryk_githubpage/assets/images/IForest.png" alt="Alt Text">
+        <figcaption class="caption">LSTM Network Architecture</figcaption>
+    </div>
+
+    <div class="toright">
+        <p></p>
+    </div>
+</div>
