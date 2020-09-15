@@ -18,8 +18,6 @@ author: henryk
 externalLink: false
 ---
 
-## Summary:
-
 <p>The aim of the project was to develop a more precise method using anomaly detection,
 which evaluates these loading processes on the basis of the log files and provides information on possible errors
 gives. In the choice of methods, the focus was on the broadest possible applicability
@@ -41,3 +39,6 @@ scoring functions meets.</p>
         <p></p>
     </div>
 </div>
+
+
+<iframe src="https://github.com/borhenryk/unsupervised_anomaly_detection/blob/master/18-04-11_Anomaly%20Detection_Vortrag.pdf" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
