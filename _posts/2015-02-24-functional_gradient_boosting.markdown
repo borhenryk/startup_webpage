@@ -7,7 +7,7 @@ tag:
 - functional-data
 - function-on-function-regression
 - functional-data-analysis
-image: https://borhenryk.github.io/henryk_githubpage/Rplot1.png
+image: https://borhenryk.github.io/henryk_githubpage/assets/images/Rplot1.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
