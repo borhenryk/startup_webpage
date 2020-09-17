@@ -7,7 +7,7 @@ tag:
 - deep-learning
 - lstm
 - gru
-image:  <img src="https://borhenryk.github.io/henryk_githubpage/assets/images/text_generation_sampling.png" width="200" height="200">
+image:  <img class="image" src="https://borhenryk.github.io/henryk_githubpage/assets/images/text_generation_sampling.png" alt="Alt Text" width="200" height="200">
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
