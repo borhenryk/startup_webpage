@@ -22,7 +22,7 @@ The [master thesis](https://epub.ub.uni-muenchen.de/60631/) gives an insight int
 
 <div class="side-by-side">
     <div class="toleft">
-        <a href=href="https://borhenryk.github.io/henryk_githubpage/assets/images/LSTM_Ar.png" title="click here to see the full sized image"><img class="image" src="https://borhenryk.github.io/henryk_githubpage/assets/images/LSTM_Ar.png" alt="Alt Text" ></a>
+        <a href="https://borhenryk.github.io/henryk_githubpage/assets/images/LSTM_Ar.png" title="click here to see the full sized image"><img class="image" src="https://borhenryk.github.io/henryk_githubpage/assets/images/LSTM_Ar.png" alt="Alt Text" ></a>
         <figcaption class="caption">LSTM Network Architecture</figcaption>
     </div>
 
