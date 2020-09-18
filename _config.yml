@@ -1,6 +1,6 @@
 # main text of home
 name: Henryk Borzymowski
-bio: bio bio bio bio bio
+bio: Passionate data scientist and machine learning engineer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -70,7 +70,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
