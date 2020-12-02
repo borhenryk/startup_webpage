@@ -18,7 +18,7 @@ author: henryk
 externalLink: false
 ---
 
-<p>The aim of the project was to develop a more precise method using anomaly detection,
+<p align="justify">The aim of the project was to develop a more precise method using anomaly detection,
 which evaluates these loading processes on the basis of the log files and provides information on possible errors
 gives. In the choice of methods, the focus was on the broadest possible applicability
 for the future, so that even higher dimensional data sets can be processed.
