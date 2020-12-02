@@ -27,7 +27,7 @@ Base of unlabeled data. For this purpose we use an approach that has been develo
 and on the basis of Excess-Mass and Mass-Volume curves statements about the quality of
 scoring functions meets.</p>
 
-<p>The project showed that the methods iForest and Local Outlier Factor are suitable for to detect anomalies or to investigate observations. A suitable criterion for the evaluation of the methods and for the determination of the parameter values was the Excess-Mass-Volume criterion. These allow a Comparison between methods and can also handle unlabeled data.</p>
+<p align="justify">The project showed that the methods iForest and Local Outlier Factor are suitable for to detect anomalies or to investigate observations. A suitable criterion for the evaluation of the methods and for the determination of the parameter values was the Excess-Mass-Volume criterion. These allow a Comparison between methods and can also handle unlabeled data.</p>
 
 <div class="side-by-side">
     <div class="toleft">
