@@ -17,16 +17,13 @@ author: henryk
 externalLink: false
 ---
 
-<p align="justify">The aim of the project was to develop a more precise method using anomaly detection,
-which evaluates these loading processes on the basis of the log files and provides information on possible errors
-gives. In the choice of methods, the focus was on the broadest possible applicability
-for the future, so that even higher dimensional data sets can be processed.
-A particular challenge here was the evaluation of the methods used at the
-Base of unlabeled data. For this purpose we use an approach that has been developing since 2015
-and on the basis of Excess-Mass and Mass-Volume curves statements about the quality of
-scoring functions meets.</p>
+<p align="justify"></p>
 
-<p align="justify">The project showed that the methods iForest and Local Outlier Factor are suitable for to detect anomalies or to investigate observations. A suitable criterion for the evaluation of the methods and for the determination of the parameter values was the Excess-Mass-Volume criterion. These allow a Comparison between methods and can also handle unlabeled data.</p>
+<p align="justify">This project was done for fun and is purely to explore the possibilities of the new deep learning architecture presented called Generative Adversarial Networks introduced by Ian J. Goodfellow and co-authors in 2014.</p>
+
+<p align="justify">GANs are mainly used in image processing but can also be applied in the context of other data types such as text, sound or video. Besides numerous fun projects, they have become particularly useful in the field of data augmentation.</p>
+
+<p align="justify">My work is based on artistic paintings and allows to generate "new" images (data instances) that resemble the provided training data.</p>
 
 <div class="side-by-side">
     <div class="toleft">
@@ -38,6 +35,3 @@ scoring functions meets.</p>
         <p></p>
     </div>
 </div>
-
-
-<iframe src="https://borhenryk.github.io/henryk_githubpage/assets/18-04-11_Anomaly%20Detection_Vortrag.pdf" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
