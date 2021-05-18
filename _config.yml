@@ -1,6 +1,6 @@
 # main text of home
-name: Henryk Borzymowski
-bio: Passionate data scientist and machine learning engineer
+name: Cool Startup name
+bio: We solve important problems
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,12 +12,12 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
-resume-url: https://borhenryk.github.io/henryk_githubpage/assets/Resume-Henryk-Borzymowski.pdf
+resume-url:
 
 
-url: https://borhenryk.github.io/henryk_githubpage/
+url: https://borhenryk.github.io/startup_webpage/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -39,13 +39,13 @@ analytics-google: 'UA-177857215-1'
 # twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: henryk-borzymowski-0755a2167/
+# linkedin: henryk-borzymowski-0755a2167/
 # youtube: myyoutube
 # spotify: myspotify
-github: borhenryk
+# github: borhenryk
 # gitlab: mygitlab
 # lastfm: mylastfm
-stackoverflow: 9770403/henryk-borzymowski
+# stackoverflow: 9770403/henryk-borzymowski
 # quora: userquora
 # reddit: username
 # medium: medium
